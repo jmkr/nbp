@@ -23,6 +23,9 @@
   "dependencies": {
     "collections": "*",
     "mostcommon_100000": "file:/collections/mostcommon_100000"
-}
+  },
+  "directories": {
+    "collections":"/collections"
+  }
 
 }
