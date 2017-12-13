@@ -1,4 +1,23 @@
 {
   "name": "nbp",
-  "version": "0.0.0"
+  "version": "0.0.0",
+  "description": "Detailed documenation can be found at [https://cry.github.io/nbp/](https://cry.github.io/nbp/).",
+  "main": "build/nbp.js",
+  "directories": {
+    "doc": "docs",
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jmkr/nbp.git"
+  },
+  "author": "jmkr",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jmkr/nbp/issues"
+  },
+  "homepage": "https://github.com/jmkr/nbp#readme"
 }
