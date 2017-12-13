@@ -5,7 +5,8 @@
   "main": "build/nbp.js",
   "directories": {
     "doc": "docs",
-    "test": "test"
+    "test": "test",
+    "collections": "collections"
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -22,9 +23,5 @@
   "homepage": "https://github.com/jmkr/nbp#readme",
   "dependencies": {
     "collections": "*"
-  },
-  "directories": {
-    "collections":"/collections"
   }
-
 }
