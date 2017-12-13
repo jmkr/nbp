@@ -21,7 +21,8 @@
   },
   "homepage": "https://github.com/jmkr/nbp#readme",
   "dependencies": {
-    "collections": "*"
+    "collections": "*",
+    "mostcommon_100000": "file:/collections/mostcommon_100000"
 }
 
 }
